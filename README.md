@@ -1,2 +1,0 @@
-# kujirain.github.io
-Portfolio
